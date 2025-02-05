@@ -1,0 +1,5 @@
+/workspaces/rabbitmq-java-consumer/rabbitmq-consumer/src/main/java/com/example/App.java
+/workspaces/rabbitmq-java-consumer/rabbitmq-consumer/src/main/java/com/example/config/RabbitMQConfig.java
+/workspaces/rabbitmq-java-consumer/rabbitmq-consumer/src/main/java/com/example/service/RabbitMQConsumer.java
+/workspaces/rabbitmq-java-consumer/rabbitmq-consumer/src/main/java/com/example/dto/MetadataDTO.java
+/workspaces/rabbitmq-java-consumer/rabbitmq-consumer/src/main/java/com/example/dto/RabbitMessageDTO.java

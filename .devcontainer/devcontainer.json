@@ -1,0 +1,13 @@
+{
+  "name": "Java RabbitMQ",
+  "image": "mcr.microsoft.com/devcontainers/java:17", 
+  "postCreateCommand": "sudo apt update && sudo apt install -y maven",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "redhat.java"
+      ]
+    }
+  }
+}
