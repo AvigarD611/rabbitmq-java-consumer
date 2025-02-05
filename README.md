@@ -1,4 +1,4 @@
-# 📨 Java RabbitMQ Consumer
+# Java RabbitMQ Consumer
 
 This is a **Java-based RabbitMQ consumer** that listens for messages from a RabbitMQ queue and processes JSON payloads.
 
